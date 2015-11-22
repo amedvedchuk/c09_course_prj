@@ -2,4 +2,4 @@
 
 Contains Shiny appication:
  - ui.R - UI component
- - server.R - server sipe processing component.
+ - server.R - server side processing component.
